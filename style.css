@@ -1,0 +1,79 @@
+body {
+    line-height: 1.5;
+    border: 2px solid black;
+}
+
+.ma-classe1 {
+    font-family: 'Mansalva', cursive;
+    font-size: 20px;
+    /*border: 2px solid purple; */
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+
+.ma-classe1:hover {
+    text-decoration:line-through, overline;
+    
+}
+.ma-classe2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: right;
+}
+
+.ma-classe3 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+h1 {
+    margin: 40px;
+}
+
+.ma-classe4 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+img {
+    border-radius: 10px 10px 0px 0px;
+    width: 100%;
+}
+
+#paragraphe-final {
+    background-image: url("https://gocdkeys.com/images/captures/ratchet-clank-ps4-1.jpg");
+    width: 25%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: white;
+}
+
+p {
+    /*width: 40%; */
+    margin-bottom: 40px;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    line-height: 1.5;
+    border: 2px solid black;
+}
+
+#final {
+    background-color: pink;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    height: 30px;
+    overflow: hidden;
+}
